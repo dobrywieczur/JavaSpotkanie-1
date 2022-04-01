@@ -13,6 +13,7 @@ public class Kalkulator {
     double x;
     double y;
     String znak; 
+        
     System.out.println("||||||||||||||||||||||||||||");    
     System.out.println("|||                      |||");
     System.out.println("|||  Prosty kalkulator   |||");
@@ -20,6 +21,7 @@ public class Kalkulator {
     System.out.println("|||  essasito edition    |||");
     System.out.println("|||                      |||");
     System.out.println("||||||||||||||||||||||||||||");
+        
     System.out.println("\nPodaj dwie liczby oraz wybierz jedną z pięciu możliwych operacji: (+, -, *, /, pow - potęgowanie)");
     System.out.print("Liczba 1: ");
     x = skan.nextInt();
