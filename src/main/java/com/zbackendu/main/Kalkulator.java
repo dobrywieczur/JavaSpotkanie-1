@@ -1,3 +1,7 @@
+///
+///  Karol Bestry 47801
+/// 
+
 import java.util.Scanner;
 import java.lang.Math;
 
@@ -13,7 +17,7 @@ public class Kalkulator {
     System.out.println("|||                      |||");
     System.out.println("|||  Prosty kalkulator   |||");
     System.out.println("|||                      |||");
-    System.out.println("|||  Karol Bestry 47801  |||");
+    System.out.println("|||  essasito edition    |||");
     System.out.println("|||                      |||");
     System.out.println("||||||||||||||||||||||||||||");
     System.out.println("\nPodaj dwie liczby oraz wybierz jedną z pięciu możliwych operacji: (+, -, *, /, pow - potęgowanie)");
