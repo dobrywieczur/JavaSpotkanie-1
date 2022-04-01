@@ -16,7 +16,7 @@ public class Kalkulator {
     System.out.println("|||  Karol Bestry 47801  |||");
     System.out.println("|||                      |||");
     System.out.println("||||||||||||||||||||||||||||");
-    System.out.println("\nPodaj dwie liczby oraz jedną możliwych operacji: (+, -, *, /, pow - potęga)");
+    System.out.println("\nPodaj dwie liczby oraz wybierz jedną z pięciu możliwych operacji: (+, -, *, /, pow - potęgowanie)");
     System.out.print("Liczba 1: ");
     x = skan.nextInt();
     System.out.print("Liczba 2: ");
