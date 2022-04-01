@@ -1,3 +1,7 @@
+///
+///  Karol Bestry 47801
+/// 
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
