@@ -20,8 +20,6 @@ public class Kalkulator {
     System.out.println("|||                      |||");
     System.out.println("|||  Prosty kalkulator   |||");
     System.out.println("|||                      |||");
-    System.out.println("|||  essa     edition    |||");
-    System.out.println("|||                      |||");
     System.out.println("||||||||||||||||||||||||||||");
         
     System.out.println("\nPodaj dwie liczby oraz wybierz jedną z pięciu możliwych operacji: (+, -, *, /, pow - potęgowanie)");
