@@ -20,7 +20,7 @@ public class Kalkulator {
     System.out.println("|||                      |||");
     System.out.println("|||  Prosty kalkulator   |||");
     System.out.println("|||                      |||");
-    System.out.println("|||  essasito edition    |||");
+    System.out.println("|||  essa     edition    |||");
     System.out.println("|||                      |||");
     System.out.println("||||||||||||||||||||||||||||");
         
