@@ -24,9 +24,9 @@ public class Kalkulator {
         
     System.out.println("\nPodaj dwie liczby oraz wybierz jedną z pięciu możliwych operacji: (+, -, *, /, pow - potęgowanie)");
     System.out.print("Liczba 1: ");
-    x = skan.nextInt();
+    x = skan.nextDouble();
     System.out.print("Liczba 2: ");
-    y = skan.nextInt();
+    y = skan.nextDouble();
     System.out.print("Operacja: ");
     skan.nextLine();
     znak = skan.nextLine();
